@@ -8,6 +8,6 @@ Important libraries that I used in the project:
 - Room (I saved the data in a local database using Room)
 
 <img width="200" alt="portfolio_view" src="https://covid19.kimozil.com/images/1.png">
-![image](https://covid19.kimozil.com/images/1.png) 
-![image](https://covid19.kimozil.com/images/2.png =250x250) 
+<img width="200" alt="portfolio_view" src="https://covid19.kimozil.com/images/2.png">
+<img width="200" alt="portfolio_view" src="https://covid19.kimozil.com/images/3.png">
 
